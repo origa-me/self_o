@@ -1,5 +1,3 @@
-# self_o
-おりがめ、じこしょうかいします！
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -38,24 +36,6 @@
       font-size: 1em;
       color: #a67c52;
     }
-
-    /* アニメーションスタイル */
-    .floating-tea {
-      font-size: 2.5em;
-      position: absolute;
-      animation: float 5s ease-in-out infinite;
-    }
-    .tea1 { top: 10%; left: 10%; animation-delay: 0s; }
-    .tea2 { top: 40%; left: 80%; animation-delay: 1s; }
-    .tea3 { top: 70%; left: 20%; animation-delay: 2s; }
-    .tea4 { top: 20%; left: 60%; animation-delay: 3s; }
-    .tea5 { top: 60%; left: 40%; animation-delay: 4s; }
-
-    @keyframes float {
-      0%   { transform: translateY(0px) rotate(0deg); opacity: 1; }
-      50%  { transform: translateY(-20px) rotate(10deg); opacity: 0.8; }
-      100% { transform: translateY(0px) rotate(0deg); opacity: 1; }
-    }
   </style>
 </head>
 <body>
@@ -69,7 +49,8 @@
     💫 ホットティーも アイスティーも大歓迎！<br>
     💕 ダージリン、アールグレイ、アッサム…どれも好き〜！<br>
     🫖 お気に入りのカップでのんびりする時間が宝物です✨<br>
-    🍓 お茶菓子といっしょに楽しむのも最高〜〜！🍪💞
+    🍓 お茶菓子といっしょに楽しむのも最高〜〜！🍪💞<br><br>
+    🍹 アイスティーも大好き！おいしい紅茶を飲みながらゆったりした時間を楽しむのが至福のひとときです🍃
   </div>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Tea_in_Porcelain_Cup.jpg" alt="紅茶カップの写真">
@@ -79,11 +60,7 @@
     💌 また遊びにきてね♪
   </footer>
 
-  <!-- ☕️アイコンがふわふわ〜 -->
-  <div class="floating-tea tea1">🫖</div>
-  <div class="floating-tea tea2">🍵</div>
-  <div class="floating-tea tea3">☕</div>
-  <div class="floating-tea tea4">🫖</div>
-  <div class="floating-tea tea5">🍵</div>
+  <!-- 絵文字追加 -->
+  <div>🍵🥄🍪🍓🍰🍩🍒🍓🍊</div>
 </body>
 </html>
