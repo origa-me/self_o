@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
-  <title>🌸 わたしの紅茶ページ 🌸</title>
+  <title>🌸 わたしの煎茶ページ 🌸</title>
   <style>
     body {
       font-family: 'Hiragino Kaku Gothic ProN', sans-serif;
@@ -45,18 +45,18 @@
   このページを見つけてくれてありがとう〜💖</p>
 
   <div class="tea">
-    ☕🌿 わたしは <strong>紅茶だいすき人間</strong> です！！ 🌿☕<br>
-    💫 ホットティーも アイスティーも大歓迎！<br>
-    💕 ダージリン、アールグレイ、アッサム…どれも好き〜！<br>
-    🫖 お気に入りのカップでのんびりする時間が宝物です✨<br>
-    🍓 お茶菓子といっしょに楽しむのも最高〜〜！🍪💞<br><br>
-    🍹 アイスティーも大好き！おいしい紅茶を飲みながらゆったりした時間を楽しむのが至福のひとときです🍃
+    🍵🌿 わたしは <strong>煎茶だいすき人間</strong> です！！ 🌿🍵<br>
+    💫 ホット煎茶も アイス煎茶も大歓迎！<br>
+    💚 煎茶の香りと味わいに癒される時間が大好きです〜🍃<br>
+    🫖 お気に入りの急須で煎茶を淹れて、心を落ち着けるひとときが幸せ✨<br>
+    🍓 お茶菓子とともに楽しむのも最高〜〜！🍪💞<br><br>
+    🍹 アイス煎茶も大好き！暑い日にぴったりの清涼感です✨
   </div>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Tea_in_Porcelain_Cup.jpg" alt="紅茶カップの写真">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Tea_in_Porcelain_Cup.jpg" alt="煎茶カップの写真">
 
   <footer>
-    🌟 紅茶とともに、今日もすてきな1日を〜 🌟<br>
+    🌟 煎茶とともに、今日もすてきな1日を〜 🌟<br>
     💌 また遊びにきてね♪
   </footer>
 
